@@ -1,8 +1,20 @@
-#BankApi
+BankApi
 This project is the backend of the WEB <a href="https://github.com/igormarti/bank_frontend">back</a>  application that was developed with VueJS
 
-#Setup
+- [Setup](#setup)
+- [Run the application](#run the application)
 
+Requirements:
+   <ul> 
+    <li><a href="https://getcomposer.org/">Composer</a></li>
+   </ul>
+   
+Recommendations:
+   <ul> 
+    <li><a href="https://www.sqlite.org/index.html">Sqlite</a></li>
+   </ul
+
+## Setup
 1 - Inside your project folder do:
 ```shell
 composer install
@@ -19,8 +31,7 @@ php artisan migrate
 ```shell
 php artisan db:seed
 ```
-#Run the application
-
+## Run the application
 Run the following command for start application:
 ```shell
 php artisan serve
