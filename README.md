@@ -2,7 +2,7 @@ BankApi
 This project is the backend of the WEB <a href="https://github.com/igormarti/bank_frontend">back</a>  application that was developed with VueJS
 
 - [Setup](#setup)
-- [Runtheapplication](#run the application)
+- [Run the application](#runtheapplication)
 
 Requirements:
    <ul> 
