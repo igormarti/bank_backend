@@ -12,6 +12,7 @@ Recommendations:
    </ul
 
 ## Setup
+
 1 - Inside your project folder do:
 ```shell
 composer install
