@@ -58,7 +58,7 @@ class UserService
     }
 
     /**
-     * Service Constructor
+     * Service create User
      *
      * @param array $payload
      * @return void
@@ -83,7 +83,7 @@ class UserService
     }
 
     /**
-     * Service Constructor
+     * Service update User
      *
      * @param array $payload
      * @param number $id
