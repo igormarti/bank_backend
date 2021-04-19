@@ -9,23 +9,22 @@ Requirements:
 Recommendations:
    <ul> 
     <li><a target="_blank" href="https://www.sqlite.org/index.html">Sqlite</a></li>
-   </ul
+   </ul>
 
 ## Setup
-
-1 - Inside your project folder do:
+Inside your project folder do:
 ```shell
 composer install
 ```
-2 - Create sqlite database database file, execute the following command in database folder:
+Create sqlite database database file, execute the following command in database folder:
 ```shell
 sudo touch database.sqlite
 ```
-3 - Run the following command in root folder to migrate the tables:
+Run the following command in root folder to migrate the tables:
 ```shell
 php artisan migrate
 ```
-4 - Run the following command in root folder to create fake data:
+Run the following command in root folder to create fake data:
 ```shell
 php artisan db:seed
 ```
