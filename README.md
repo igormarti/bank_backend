@@ -1,14 +1,14 @@
 BankApi
-This project is the backend of the WEB <a href="https://github.com/igormarti/bank_frontend">back</a>  application that was developed with VueJS
+This project is the backend of the WEB <a target="_blank" href="https://github.com/igormarti/bank_frontend">back</a>  application that was developed with VueJS
 
 Requirements:
    <ul> 
-    <li><a href="https://getcomposer.org/">Composer</a></li>
+    <li><a target="_blank" href="https://getcomposer.org/">Composer</a></li>
    </ul>
    
 Recommendations:
    <ul> 
-    <li><a href="https://www.sqlite.org/index.html">Sqlite</a></li>
+    <li><a target="_blank" href="https://www.sqlite.org/index.html">Sqlite</a></li>
    </ul
 
 ## Setup
