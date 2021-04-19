@@ -16,7 +16,7 @@ Inside your project folder do:
 ```shell
 composer install
 ```
-Create sqlite database database file, execute the following command in database folder:
+Create sqlite database file, execute the following command in database folder:
 ```shell
 sudo touch database.sqlite
 ```
